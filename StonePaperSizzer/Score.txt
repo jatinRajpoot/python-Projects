@@ -1,0 +1,19 @@
+---------  This Game is played By Jatin On 2022-04-07 ---------------
+
+ ====>  The score of Jatin is 10 And Score of Computer is 7
+
+ ====>  Jatin Won the Game by 3 
+
+ ---------  This Game is played By jatin On 2022-04-07 -------------
+ 
+ ====>  The score of jatin is 9 And Score of Computer is 10
+ 
+ ====>  Computer Won the Game by 1  
+ 
+ ---------  This Game is played By Jatin On 2022-04-07 -------------
+ 
+ ====>  The score of Jatin is 10 And Score of Computer is 9
+ 
+ ====>  Jatin Won the Game by 1
+ 
+ 
